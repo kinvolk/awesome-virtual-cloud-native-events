@@ -1,6 +1,6 @@
 # Awesome Virtual Cloud Native Events
 
-As more virtual events pop up to take fill the void left by the postponement of KubeCon EU in Amsterdam, this list should serve a central overview off all those awesome events.
+As more virtual events pop up to take fill the void left by the postponement of KubeCon EU in Amsterdam, this list should serve as a consolidated overview of all those awesome events.
 
 ## Contents
 
