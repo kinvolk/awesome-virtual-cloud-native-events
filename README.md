@@ -1,6 +1,6 @@
 # Awesome Virtual Cloud Native Events
 
-As more virtual events pop up to take fill the void left by the postponement of KubeCon EU in Amsterdam, this list should serve a central overview off all those awesome events.
+As more virtual events pop up to fill the void left by the [postponement of KubeCon EU](https://events.linuxfoundation.org/kubecon-cloudnativecon-europe/attend/novel-coronavirus-update/) in Amsterdam, this list should serve a central overview off all those awesome events.
 
 ## Contents
 
@@ -13,8 +13,8 @@ Organizer: [D2iQ](https://d2iq.com)
 ### Virtual Rejekts
 Date: April 1st  
 Website: https://virtual.rejekts.io  
-Platform: Twitch  
-Organizer: [Kinvolk](https://kinvolk.io/)  
+Platform: Unknown  
+Organizer: [Kinvolk](https://kinvolk.io/)   
 
 ----
 
