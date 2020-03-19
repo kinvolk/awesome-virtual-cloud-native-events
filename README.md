@@ -10,6 +10,8 @@ As more virtual events pop up to fill the void left by the [postponement of Kube
 | Virtual Cloud Native Summit (name not decided) | 30 March 2020 | Unknown | [GitLab](https://gitlab.com) + others |
 | [Cloud Native Virtual Summit Online](https://info.d2iq.com/20-04-01-d2iq-virtual-summit-registration.html) | 01 April 2020 | Unknown | [D2iQ](https://d2iq.com) |
 | [Virtual Rejekts]( https://virtual.rejekts.io) | 01 April 2020 | Unknown | [Kinvolk](https://kinvolk.io/) |
+| [Destination: Decentralization](https://konghq.com/events/destination-decentralization/) | 16 April 2020 | Zoom | [Kong](https://konghq.com/) |
+
 
 ----
 
